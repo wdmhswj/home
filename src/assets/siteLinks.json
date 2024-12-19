@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://www.yuque.com/wanmeishijie-elvsw/im0v59"
+    "link": "https://blog.yuanqiyuanluo.top/"
   },
   {
     "icon": "Cloud",
@@ -19,15 +19,14 @@
     "name": "语雀主页",
     "link": "https://www.yuque.com/wanmeishijie-elvsw/"
   },
-
+  {
+    "icon": "ArticleRound",
+    "name": "语雀博客",
+    "link": "https://www.yuque.com/wanmeishijie-elvsw/im0v59"
+  },
   {
     "icon": "Github",
     "name": "Github主页",
     "link": "https://github.com/wdmhswj"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://tophub.today/"
   }
 ]
